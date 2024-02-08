@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ManakkavuGaneshwarM, an aspiring data analyst and AI enthusiast. 
+- 👀 I’m interested in Data Analytics, AI.  
+- 🌱 I’m currently learning SQL, Power BI and Python. 
+- 💞️ I’m looking to connect with data folks and collaborate on projects. 
+- 📫 How to reach me at linkedin : www.linkedin.com/in/manakkavu-ganeshwar-m-1b04052
+- 🗄️ My Portfolio : https://www.novypro.com/profile_projects/manakkavuganeshwar-m
