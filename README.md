@@ -2,8 +2,9 @@
 
 Mathematics Graduate
 
-- 👀 I’m interested in Data Analytics, AI.  
-- 🧑‍🤝‍🧑 Looking forward to connect with data folks and collaborate on projects. 
+- 👀 I’m interested in Data Analytics 📊, AI.
+- 🌱 Currently learning Machine Learning
+- 🧑‍🤝‍🧑 Looking forward to connect with data folks and collaborate on projects.
 
 - 📫 How to reach me :
 <br /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(www.linkedin.com/in/manakkavu-ganeshwar-m-1b0405220)
