@@ -1,9 +1,9 @@
-### 👋 Hi, I’m Manakkavu Ganeshwar M, an aspiring data analyst and AI enthusiast. 
+### 👋 Hi, I’m Manakkavu Ganeshwar M, an aspiring AI Engineer and data enthusiast. 
 
 Mathematics Graduate
 
 - 👀 I’m interested in Data Analytics 📊, AI.
-- 🌱 Currently learning Machine Learning
+- 🌱 Currently learning Machine Learning, Deep Learning, LLMs 
 - 🧑‍🤝‍🧑 Looking forward to connect with data folks and collaborate on projects.
 
 - 📫 How to reach me :
