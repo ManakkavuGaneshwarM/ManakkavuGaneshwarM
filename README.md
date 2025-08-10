@@ -2,7 +2,7 @@
 
 Mathematics Graduate
 
-- 👀 I’m interested in Data Analytics 📊, AI.
+- 👀 I’m interested in Data 📊, AI/ML research.
 - 🌱 Currently learning Machine Learning, Deep Learning, LLMs 
 - 🧑‍🤝‍🧑 Looking forward to connect with data folks and collaborate on projects.
 
